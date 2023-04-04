@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810490175254",
+    "project_id": "jummung-1feea",
+    "storage_bucket": "jummung-1feea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810490175254:android:674ba6d4607779ad417a37",
+        "android_client_info": {
+          "package_name": "com.example.jummeng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810490175254-jja9tdfi69s15tqh5ukorfut9e42s8h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDji867v7O0MwdePcY1LZWGrEqaZH6MasM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810490175254-jja9tdfi69s15tqh5ukorfut9e42s8h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
